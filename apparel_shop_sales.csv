@@ -1,0 +1,501 @@
+TransactionID,Date,CustomerID,Gender,Age,ProductCategory,ProductName,Size,Color,Quantity,PricePerUnit,TotalAmount,PaymentMode,StoreLocation
+T0001,2025-08-21,C114,Male,35,Accessories,Cap,-,Black,1,2533,2533,Credit Card,Hyderabad
+T0002,2025-08-14,C104,Male,23,Accessories,Cap,-,Red,5,1114,5570,UPI,Chennai
+T0003,2025-08-15,C175,Female,18,Dresses,Maxi Dress,M,Yellow,2,1181,2362,Cash,Bangalore
+T0004,2025-08-03,C148,Male,40,Jackets,Denim Jacket,XS,Grey,5,811,4055,UPI,Bangalore
+T0005,2025-08-18,C137,Female,54,Accessories,Leather Belt,-,Red,2,1485,2970,Credit Card,Chennai
+T0006,2025-08-28,C112,Female,35,Ethnic Wear,Sherwani,S,Green,3,1158,3474,Cash,Kolkata
+T0007,2025-08-30,C187,Male,56,Dresses,Evening Gown,S,Grey,4,1405,5620,Debit Card,Kolkata
+T0008,2025-08-11,C198,Male,32,Tops,Crop Top,L,Yellow,1,1164,1164,Cash,Chennai
+T0009,2025-08-21,C163,Female,59,Ethnic Wear,Saree,M,Black,2,2599,5198,Cash,Kolkata
+T0010,2025-08-19,C154,Female,41,Accessories,Cap,-,Grey,1,492,492,Credit Card,Chennai
+T0011,2025-08-21,C120,Female,56,Jeans,Cargo Pants,L,Grey,5,1329,6645,Credit Card,Kolkata
+T0012,2025-08-24,C114,Female,59,Jackets,Leather Jacket,M,Pink,2,2158,4316,Credit Card,Kolkata
+T0013,2025-08-29,C192,Female,50,Dresses,Summer Dress,XXL,Yellow,5,2794,13970,Debit Card,Chennai
+T0014,2025-08-12,C197,Male,52,Tops,Crop Top,L,Red,1,1786,1786,Cash,Chennai
+T0015,2025-08-02,C130,Male,23,Ethnic Wear,Kurta,XL,Black,2,2246,4492,Debit Card,Mumbai
+T0016,2025-08-17,C177,Female,31,Accessories,Handbag,-,Pink,3,2094,6282,UPI,Bangalore
+T0017,2025-08-08,C128,Male,39,Tops,Formal Blouse,XL,White,1,590,590,Credit Card,Chennai
+T0018,2025-08-03,C104,Female,22,Accessories,Handbag,-,Grey,2,2508,5016,Debit Card,Kolkata
+T0019,2025-08-30,C173,Female,33,Ethnic Wear,Lehenga,S,Blue,1,2999,2999,UPI,Mumbai
+T0020,2025-08-14,C152,Female,21,Jeans,Slim Fit Jeans,L,Green,1,1318,1318,Debit Card,Chennai
+T0021,2025-08-18,C157,Male,45,Dresses,Casual Dress,L,White,1,2115,2115,Credit Card,Bangalore
+T0022,2025-08-21,C169,Male,23,Accessories,Cap,-,Pink,4,2271,9084,Debit Card,Delhi
+T0023,2025-08-29,C107,Male,42,Tops,Hoodie,M,Grey,3,2032,6096,UPI,Chennai
+T0024,2025-08-07,C137,Male,21,Tops,Crop Top,XS,Red,5,2252,11260,Debit Card,Bangalore
+T0025,2025-08-31,C165,Male,29,Jeans,Slim Fit Jeans,XXL,White,4,791,3164,Debit Card,Hyderabad
+T0026,2025-08-20,C105,Male,44,Jackets,Denim Jacket,S,Green,2,1387,2774,UPI,Chennai
+T0027,2025-08-22,C182,Female,47,Jackets,Leather Jacket,XS,Grey,5,2606,13030,Credit Card,Bangalore
+T0028,2025-08-18,C127,Female,26,Jackets,Leather Jacket,S,Green,3,946,2838,UPI,Hyderabad
+T0029,2025-08-23,C138,Male,60,Shirts,Formal Shirt,S,Yellow,1,738,738,Debit Card,Mumbai
+T0030,2025-08-10,C177,Male,39,Accessories,Handbag,-,Grey,3,508,1524,Credit Card,Kolkata
+T0031,2025-08-14,C135,Male,18,Jackets,Bomber Jacket,XXL,Yellow,2,2109,4218,UPI,Hyderabad
+T0032,2025-08-01,C114,Male,27,Tops,Crop Top,XL,Black,4,822,3288,Credit Card,Mumbai
+T0033,2025-08-12,C105,Female,31,Accessories,Leather Belt,-,Green,5,1964,9820,Debit Card,Chennai
+T0034,2025-08-28,C120,Male,44,Tops,Formal Blouse,XXL,Green,4,1316,5264,Cash,Chennai
+T0035,2025-08-26,C189,Male,42,Tops,Hoodie,S,White,4,1732,6928,Cash,Chennai
+T0036,2025-08-08,C103,Male,43,Jackets,Denim Jacket,XS,Yellow,3,2927,8781,UPI,Kolkata
+T0037,2025-08-27,C168,Female,19,Jeans,Ripped Jeans,S,Yellow,1,744,744,UPI,Mumbai
+T0038,2025-08-24,C200,Female,45,Jeans,Cargo Pants,XL,White,3,481,1443,UPI,Bangalore
+T0039,2025-08-17,C168,Male,41,Shoes,Sneakers,-,Green,5,1585,7925,Credit Card,Kolkata
+T0040,2025-08-29,C138,Female,60,Shoes,Sandals,-,Pink,3,2570,7710,Debit Card,Chennai
+T0041,2025-08-14,C185,Female,29,Shirts,Denim Shirt,XL,Red,3,1475,4425,Debit Card,Delhi
+T0042,2025-08-26,C174,Female,47,Ethnic Wear,Lehenga,XXL,White,5,2238,11190,Debit Card,Kolkata
+T0043,2025-08-03,C136,Female,23,Accessories,Handbag,-,White,2,903,1806,Credit Card,Bangalore
+T0044,2025-08-08,C160,Male,47,Shoes,Formal Shoes,-,Pink,4,1936,7744,Debit Card,Chennai
+T0045,2025-08-21,C188,Male,24,Shoes,Formal Shoes,-,Black,5,2202,11010,Credit Card,Hyderabad
+T0046,2025-08-08,C115,Female,26,Ethnic Wear,Sherwani,L,Pink,5,2126,10630,Debit Card,Kolkata
+T0047,2025-08-28,C160,Female,34,Accessories,Handbag,-,Grey,2,1424,2848,UPI,Bangalore
+T0048,2025-08-23,C136,Male,35,Jackets,Denim Jacket,XL,Blue,2,917,1834,Debit Card,Delhi
+T0049,2025-08-23,C119,Male,22,Shoes,Boots,-,Green,5,2208,11040,UPI,Bangalore
+T0050,2025-08-07,C153,Female,55,Tops,Hoodie,L,Red,3,1523,4569,UPI,Delhi
+T0051,2025-08-18,C195,Male,49,Accessories,Handbag,-,Pink,4,418,1672,UPI,Mumbai
+T0052,2025-08-22,C186,Female,28,Ethnic Wear,Saree,XL,Red,4,2724,10896,Credit Card,Bangalore
+T0053,2025-08-21,C154,Male,47,Dresses,Summer Dress,M,Pink,3,1166,3498,UPI,Mumbai
+T0054,2025-08-11,C197,Female,35,Shoes,Sandals,-,Blue,4,379,1516,Credit Card,Mumbai
+T0055,2025-08-08,C183,Male,59,Tops,Casual T-Shirt,S,White,1,2844,2844,Debit Card,Chennai
+T0056,2025-08-05,C160,Male,54,Accessories,Scarf,-,Yellow,3,987,2961,Credit Card,Chennai
+T0057,2025-08-31,C139,Male,55,Tops,Crop Top,XL,Pink,4,1112,4448,Credit Card,Hyderabad
+T0058,2025-08-23,C180,Male,24,Shirts,Formal Shirt,XL,Red,3,2482,7446,UPI,Kolkata
+T0059,2025-08-12,C108,Female,18,Shoes,Boots,-,Blue,4,1783,7132,UPI,Kolkata
+T0060,2025-08-05,C155,Male,51,Shirts,Denim Shirt,L,Pink,5,1399,6995,Cash,Chennai
+T0061,2025-08-27,C111,Female,46,Accessories,Scarf,-,Pink,3,417,1251,UPI,Mumbai
+T0062,2025-08-06,C162,Male,40,Shirts,Checked Shirt,M,Yellow,5,341,1705,Debit Card,Bangalore
+T0063,2025-08-08,C192,Female,49,Accessories,Scarf,-,Grey,4,370,1480,Credit Card,Mumbai
+T0064,2025-08-08,C151,Male,37,Jackets,Blazer,XL,Green,4,2554,10216,Cash,Mumbai
+T0065,2025-08-23,C158,Female,37,Shirts,Casual Shirt,XS,White,3,789,2367,Debit Card,Chennai
+T0066,2025-08-07,C194,Female,35,Shirts,Formal Shirt,S,Yellow,2,1778,3556,Debit Card,Mumbai
+T0067,2025-08-01,C190,Male,35,Tops,Casual T-Shirt,XL,Yellow,2,2912,5824,UPI,Bangalore
+T0068,2025-08-28,C101,Female,48,Ethnic Wear,Lehenga,M,Black,1,1334,1334,UPI,Bangalore
+T0069,2025-08-27,C108,Female,49,Jeans,Slim Fit Jeans,S,Black,5,1544,7720,Credit Card,Chennai
+T0070,2025-08-04,C171,Female,56,Accessories,Scarf,-,Grey,4,1517,6068,UPI,Mumbai
+T0071,2025-08-19,C179,Male,57,Jeans,Regular Jeans,XXL,White,3,632,1896,Debit Card,Chennai
+T0072,2025-08-06,C170,Male,28,Tops,Hoodie,L,Grey,3,433,1299,Debit Card,Mumbai
+T0073,2025-08-23,C136,Female,22,Accessories,Handbag,-,White,4,770,3080,Debit Card,Kolkata
+T0074,2025-08-05,C134,Male,22,Tops,Formal Blouse,M,Yellow,4,809,3236,UPI,Kolkata
+T0075,2025-08-10,C189,Female,35,Ethnic Wear,Lehenga,XS,Red,4,1620,6480,Cash,Bangalore
+T0076,2025-08-03,C129,Male,35,Tops,Formal Blouse,L,Grey,3,1043,3129,UPI,Kolkata
+T0077,2025-08-27,C162,Male,48,Jackets,Blazer,M,Green,1,958,958,Cash,Delhi
+T0078,2025-08-23,C163,Female,60,Shoes,Sneakers,-,Grey,1,1588,1588,Cash,Mumbai
+T0079,2025-08-04,C198,Female,50,Tops,Hoodie,L,Red,2,2423,4846,Cash,Hyderabad
+T0080,2025-08-25,C163,Female,21,Accessories,Handbag,-,Black,3,2094,6282,UPI,Bangalore
+T0081,2025-08-01,C180,Male,28,Shirts,Formal Shirt,XL,Pink,1,1220,1220,Credit Card,Delhi
+T0082,2025-08-31,C115,Male,49,Shirts,Checked Shirt,L,Grey,4,1298,5192,UPI,Hyderabad
+T0083,2025-08-05,C149,Male,56,Dresses,Summer Dress,M,Pink,3,2379,7137,Cash,Bangalore
+T0084,2025-08-10,C192,Female,55,Ethnic Wear,Saree,L,Grey,3,1661,4983,UPI,Delhi
+T0085,2025-08-30,C141,Male,33,Shoes,Formal Shoes,-,Pink,1,1603,1603,UPI,Kolkata
+T0086,2025-08-30,C148,Female,60,Dresses,Maxi Dress,XS,Black,5,2717,13585,Cash,Bangalore
+T0087,2025-08-28,C156,Male,51,Ethnic Wear,Kurta,XXL,Black,4,2981,11924,Debit Card,Bangalore
+T0088,2025-08-16,C200,Female,39,Shoes,Sneakers,-,Green,5,1856,9280,Cash,Kolkata
+T0089,2025-08-23,C197,Female,52,Tops,Casual T-Shirt,S,Yellow,2,670,1340,UPI,Bangalore
+T0090,2025-08-25,C181,Male,46,Dresses,Casual Dress,XS,Red,3,529,1587,Cash,Mumbai
+T0091,2025-08-12,C155,Male,33,Shoes,Formal Shoes,-,Black,2,623,1246,UPI,Hyderabad
+T0092,2025-08-22,C130,Female,55,Dresses,Evening Gown,L,Yellow,4,1345,5380,Credit Card,Delhi
+T0093,2025-08-29,C136,Male,22,Ethnic Wear,Sherwani,XL,Yellow,4,1324,5296,UPI,Mumbai
+T0094,2025-08-07,C149,Female,24,Accessories,Scarf,-,Green,5,1511,7555,Cash,Bangalore
+T0095,2025-08-27,C184,Female,35,Tops,Casual T-Shirt,XL,Grey,3,1242,3726,Cash,Chennai
+T0096,2025-08-21,C124,Female,60,Dresses,Summer Dress,XXL,Red,3,2105,6315,Credit Card,Hyderabad
+T0097,2025-08-12,C193,Male,23,Shirts,Checked Shirt,XXL,Pink,2,1122,2244,Debit Card,Hyderabad
+T0098,2025-08-29,C146,Female,28,Shirts,Denim Shirt,M,Green,1,2218,2218,Credit Card,Chennai
+T0099,2025-08-25,C128,Female,53,Jackets,Leather Jacket,L,Red,3,2497,7491,Credit Card,Delhi
+T0100,2025-08-12,C186,Female,55,Shoes,Sandals,-,Blue,2,2231,4462,Credit Card,Hyderabad
+T0101,2025-08-29,C171,Female,57,Accessories,Leather Belt,-,Grey,3,2959,8877,UPI,Bangalore
+T0102,2025-08-05,C105,Male,37,Ethnic Wear,Kurta,XS,White,5,855,4275,UPI,Delhi
+T0103,2025-08-12,C185,Female,55,Dresses,Maxi Dress,XXL,Blue,4,2821,11284,UPI,Mumbai
+T0104,2025-08-02,C188,Female,31,Ethnic Wear,Lehenga,S,Green,1,1804,1804,Cash,Bangalore
+T0105,2025-08-13,C135,Male,25,Ethnic Wear,Kurta,XXL,White,5,387,1935,Credit Card,Mumbai
+T0106,2025-08-08,C116,Male,22,Accessories,Cap,-,White,3,904,2712,Credit Card,Mumbai
+T0107,2025-08-28,C118,Male,52,Shirts,Casual Shirt,XS,Red,2,360,720,Cash,Chennai
+T0108,2025-08-19,C141,Male,29,Shirts,Formal Shirt,S,Pink,5,765,3825,Credit Card,Delhi
+T0109,2025-08-15,C199,Female,50,Jeans,Cargo Pants,XL,White,5,477,2385,Cash,Delhi
+T0110,2025-08-21,C103,Male,48,Shoes,Boots,-,Blue,4,2116,8464,Credit Card,Bangalore
+T0111,2025-08-11,C177,Male,22,Dresses,Casual Dress,XL,Green,4,2746,10984,Cash,Delhi
+T0112,2025-08-17,C177,Female,24,Jeans,Regular Jeans,L,Grey,2,1994,3988,Cash,Delhi
+T0113,2025-08-13,C153,Male,38,Shoes,Sandals,-,Yellow,3,925,2775,UPI,Bangalore
+T0114,2025-08-03,C110,Male,45,Jeans,Ripped Jeans,S,Red,5,2600,13000,Cash,Kolkata
+T0115,2025-08-04,C152,Female,60,Shoes,Sneakers,-,Yellow,5,1579,7895,Cash,Bangalore
+T0116,2025-08-19,C164,Male,27,Ethnic Wear,Saree,XS,Green,5,1805,9025,Credit Card,Mumbai
+T0117,2025-08-19,C128,Female,53,Tops,Crop Top,XS,Black,3,1565,4695,Cash,Mumbai
+T0118,2025-08-01,C123,Male,54,Shoes,Sneakers,-,Black,1,675,675,Debit Card,Delhi
+T0119,2025-08-14,C158,Female,28,Jackets,Denim Jacket,XXL,Green,5,2742,13710,Credit Card,Bangalore
+T0120,2025-08-05,C120,Male,23,Shirts,Denim Shirt,XXL,Pink,4,2786,11144,UPI,Delhi
+T0121,2025-08-09,C127,Male,40,Shoes,Sneakers,-,Yellow,5,2293,11465,Cash,Bangalore
+T0122,2025-08-08,C150,Male,18,Accessories,Handbag,-,White,2,1346,2692,Cash,Mumbai
+T0123,2025-08-04,C100,Female,45,Dresses,Evening Gown,L,White,5,2588,12940,Cash,Bangalore
+T0124,2025-08-13,C194,Male,45,Tops,Hoodie,XS,Green,5,2058,10290,UPI,Kolkata
+T0125,2025-08-21,C153,Female,25,Shoes,Sneakers,-,Green,2,2831,5662,UPI,Kolkata
+T0126,2025-08-30,C146,Male,45,Jeans,Regular Jeans,L,Pink,5,622,3110,UPI,Mumbai
+T0127,2025-08-24,C143,Male,39,Dresses,Summer Dress,XL,Blue,5,2388,11940,Debit Card,Mumbai
+T0128,2025-08-12,C193,Male,33,Jeans,Regular Jeans,M,White,2,2767,5534,Debit Card,Kolkata
+T0129,2025-08-03,C122,Female,47,Ethnic Wear,Sherwani,XXL,Green,2,2101,4202,Credit Card,Delhi
+T0130,2025-08-15,C180,Female,35,Tops,Crop Top,XL,Blue,3,2191,6573,UPI,Bangalore
+T0131,2025-08-02,C147,Female,22,Jeans,Cargo Pants,L,Red,4,2641,10564,Debit Card,Mumbai
+T0132,2025-08-20,C160,Male,21,Ethnic Wear,Kurta,M,Blue,5,2946,14730,Debit Card,Bangalore
+T0133,2025-08-08,C190,Female,46,Dresses,Casual Dress,M,Yellow,4,1974,7896,Cash,Kolkata
+T0134,2025-08-20,C106,Female,22,Jackets,Leather Jacket,XL,Pink,3,1332,3996,Debit Card,Mumbai
+T0135,2025-08-03,C174,Male,40,Shirts,Denim Shirt,S,Blue,3,2589,7767,UPI,Kolkata
+T0136,2025-08-26,C142,Male,60,Jeans,Cargo Pants,XL,Green,1,1785,1785,Cash,Chennai
+T0137,2025-08-31,C127,Female,49,Accessories,Cap,-,Black,2,616,1232,Cash,Bangalore
+T0138,2025-08-17,C198,Male,60,Jackets,Bomber Jacket,XL,Pink,2,964,1928,Debit Card,Kolkata
+T0139,2025-08-25,C179,Male,46,Tops,Hoodie,M,White,4,2800,11200,Cash,Kolkata
+T0140,2025-08-26,C157,Male,52,Accessories,Handbag,-,Grey,2,1806,3612,UPI,Delhi
+T0141,2025-08-25,C136,Female,50,Shoes,Formal Shoes,-,White,5,866,4330,Cash,Bangalore
+T0142,2025-08-21,C161,Female,53,Jeans,Slim Fit Jeans,M,Blue,2,1417,2834,UPI,Hyderabad
+T0143,2025-08-05,C155,Male,32,Ethnic Wear,Sherwani,XS,Pink,1,1923,1923,Cash,Chennai
+T0144,2025-08-13,C110,Female,32,Tops,Crop Top,XS,Green,2,863,1726,Credit Card,Mumbai
+T0145,2025-08-30,C160,Male,48,Ethnic Wear,Kurta,XS,Red,3,1183,3549,Debit Card,Hyderabad
+T0146,2025-08-31,C193,Female,25,Shirts,Casual Shirt,M,Blue,1,1276,1276,UPI,Kolkata
+T0147,2025-08-26,C179,Female,22,Jeans,Cargo Pants,XL,Red,5,2655,13275,Debit Card,Kolkata
+T0148,2025-08-05,C137,Female,18,Jackets,Bomber Jacket,XL,Pink,2,650,1300,Cash,Bangalore
+T0149,2025-08-31,C167,Male,42,Ethnic Wear,Kurta,XXL,Pink,3,1338,4014,Credit Card,Mumbai
+T0150,2025-08-26,C108,Female,33,Jeans,Ripped Jeans,S,Red,3,2536,7608,Cash,Kolkata
+T0151,2025-08-06,C199,Female,48,Dresses,Evening Gown,XS,Grey,1,1501,1501,Debit Card,Bangalore
+T0152,2025-08-26,C125,Male,38,Shirts,Denim Shirt,XL,Grey,3,449,1347,Debit Card,Mumbai
+T0153,2025-08-12,C199,Male,59,Jackets,Denim Jacket,XS,Green,4,1938,7752,UPI,Delhi
+T0154,2025-08-11,C123,Female,49,Jackets,Denim Jacket,XS,Pink,1,2063,2063,Debit Card,Hyderabad
+T0155,2025-08-10,C141,Male,23,Jackets,Denim Jacket,M,Grey,5,2045,10225,Debit Card,Kolkata
+T0156,2025-08-15,C144,Female,20,Jackets,Blazer,M,Red,1,2911,2911,UPI,Mumbai
+T0157,2025-08-17,C195,Male,19,Dresses,Maxi Dress,XS,Black,1,1266,1266,Cash,Mumbai
+T0158,2025-08-13,C172,Male,56,Dresses,Maxi Dress,M,Green,4,614,2456,Debit Card,Hyderabad
+T0159,2025-08-12,C150,Female,59,Shirts,Casual Shirt,XS,Red,2,2344,4688,UPI,Hyderabad
+T0160,2025-08-04,C133,Female,46,Accessories,Handbag,-,Grey,2,802,1604,Debit Card,Bangalore
+T0161,2025-08-15,C122,Female,23,Jackets,Denim Jacket,XXL,Blue,5,2520,12600,Cash,Mumbai
+T0162,2025-08-28,C120,Male,41,Accessories,Leather Belt,-,White,2,1269,2538,UPI,Bangalore
+T0163,2025-08-12,C170,Female,47,Dresses,Summer Dress,XS,Yellow,4,2260,9040,UPI,Delhi
+T0164,2025-08-27,C173,Male,26,Jackets,Leather Jacket,L,Grey,5,1711,8555,Debit Card,Hyderabad
+T0165,2025-08-21,C175,Male,26,Shoes,Sneakers,-,Blue,5,926,4630,Cash,Chennai
+T0166,2025-08-06,C141,Male,40,Shirts,Formal Shirt,M,White,5,1424,7120,Debit Card,Kolkata
+T0167,2025-08-10,C178,Male,50,Dresses,Evening Gown,S,Green,5,468,2340,Credit Card,Bangalore
+T0168,2025-08-02,C182,Female,59,Accessories,Scarf,-,Red,4,2868,11472,Cash,Kolkata
+T0169,2025-08-31,C138,Female,33,Shoes,Sandals,-,Grey,1,545,545,Debit Card,Delhi
+T0170,2025-08-14,C161,Female,31,Jackets,Bomber Jacket,M,Green,3,1933,5799,Debit Card,Mumbai
+T0171,2025-08-17,C171,Male,38,Accessories,Scarf,-,Blue,3,2141,6423,Debit Card,Chennai
+T0172,2025-08-04,C106,Female,42,Shoes,Formal Shoes,-,Black,3,2666,7998,Cash,Chennai
+T0173,2025-08-25,C120,Female,50,Ethnic Wear,Lehenga,M,Grey,1,668,668,UPI,Hyderabad
+T0174,2025-08-15,C130,Male,55,Jackets,Leather Jacket,XS,Yellow,4,2747,10988,UPI,Mumbai
+T0175,2025-08-18,C101,Male,45,Dresses,Casual Dress,XXL,Green,4,1798,7192,Credit Card,Delhi
+T0176,2025-08-02,C172,Male,41,Shirts,Formal Shirt,L,Grey,5,1445,7225,Credit Card,Chennai
+T0177,2025-08-04,C150,Female,39,Jackets,Bomber Jacket,S,Pink,5,464,2320,Credit Card,Bangalore
+T0178,2025-08-05,C191,Female,48,Ethnic Wear,Saree,XL,Black,3,2811,8433,Cash,Chennai
+T0179,2025-08-13,C178,Female,55,Jackets,Blazer,XXL,Yellow,4,368,1472,Cash,Mumbai
+T0180,2025-08-22,C114,Female,55,Shirts,Formal Shirt,XL,Grey,3,2985,8955,Debit Card,Kolkata
+T0181,2025-08-02,C174,Female,28,Shoes,Formal Shoes,-,White,1,2645,2645,Credit Card,Chennai
+T0182,2025-08-01,C156,Female,44,Dresses,Maxi Dress,XXL,White,4,2355,9420,UPI,Kolkata
+T0183,2025-08-24,C107,Male,51,Accessories,Handbag,-,Grey,5,1843,9215,Cash,Chennai
+T0184,2025-08-15,C168,Female,52,Jackets,Denim Jacket,XL,Grey,2,1309,2618,Cash,Hyderabad
+T0185,2025-08-10,C128,Female,36,Accessories,Scarf,-,Green,4,1728,6912,Cash,Mumbai
+T0186,2025-08-04,C173,Female,43,Jackets,Bomber Jacket,M,Red,3,623,1869,Cash,Delhi
+T0187,2025-08-21,C132,Female,31,Accessories,Handbag,-,Yellow,2,747,1494,Debit Card,Chennai
+T0188,2025-08-02,C185,Male,58,Accessories,Leather Belt,-,Blue,4,1652,6608,UPI,Bangalore
+T0189,2025-08-22,C198,Male,18,Dresses,Maxi Dress,XXL,Grey,4,2964,11856,Debit Card,Mumbai
+T0190,2025-08-11,C136,Male,23,Accessories,Leather Belt,-,Black,4,1020,4080,Credit Card,Delhi
+T0191,2025-08-26,C163,Male,36,Tops,Casual T-Shirt,M,Blue,3,1465,4395,UPI,Kolkata
+T0192,2025-08-18,C167,Female,26,Ethnic Wear,Sherwani,S,Blue,3,965,2895,UPI,Kolkata
+T0193,2025-08-09,C191,Male,18,Jackets,Denim Jacket,XL,White,2,2802,5604,UPI,Delhi
+T0194,2025-08-17,C141,Male,43,Jeans,Regular Jeans,S,Grey,3,1316,3948,Credit Card,Mumbai
+T0195,2025-08-13,C130,Female,35,Jackets,Denim Jacket,XL,Red,3,2977,8931,Cash,Kolkata
+T0196,2025-08-08,C107,Male,47,Shirts,Casual Shirt,L,Yellow,1,2916,2916,Cash,Mumbai
+T0197,2025-08-20,C128,Male,26,Ethnic Wear,Saree,L,Green,4,2549,10196,UPI,Hyderabad
+T0198,2025-08-26,C185,Male,33,Jeans,Cargo Pants,XL,Green,1,2610,2610,Credit Card,Bangalore
+T0199,2025-08-27,C170,Male,54,Dresses,Evening Gown,M,Grey,1,1141,1141,UPI,Bangalore
+T0200,2025-08-29,C165,Female,21,Ethnic Wear,Saree,XL,Pink,4,2609,10436,Credit Card,Hyderabad
+T0201,2025-08-15,C186,Female,19,Shoes,Sandals,-,Red,2,2668,5336,Credit Card,Bangalore
+T0202,2025-08-14,C144,Male,52,Tops,Casual T-Shirt,L,Red,3,1974,5922,Debit Card,Chennai
+T0203,2025-08-25,C182,Female,41,Shoes,Boots,-,Pink,4,628,2512,Debit Card,Kolkata
+T0204,2025-08-28,C144,Male,29,Shoes,Formal Shoes,-,White,1,393,393,Cash,Delhi
+T0205,2025-08-22,C192,Female,52,Shoes,Formal Shoes,-,White,4,1717,6868,Debit Card,Mumbai
+T0206,2025-08-07,C192,Male,20,Shoes,Sneakers,-,White,2,575,1150,Credit Card,Hyderabad
+T0207,2025-08-02,C157,Male,33,Tops,Hoodie,L,White,5,1189,5945,Credit Card,Chennai
+T0208,2025-08-17,C137,Male,54,Jackets,Denim Jacket,S,Yellow,2,2435,4870,Debit Card,Delhi
+T0209,2025-08-10,C135,Male,53,Dresses,Maxi Dress,XL,Grey,1,1710,1710,UPI,Hyderabad
+T0210,2025-08-11,C189,Female,44,Dresses,Casual Dress,L,Black,5,2239,11195,Debit Card,Chennai
+T0211,2025-08-10,C190,Male,47,Tops,Hoodie,L,Black,4,1294,5176,Cash,Chennai
+T0212,2025-08-11,C182,Male,46,Jackets,Leather Jacket,XL,White,1,1399,1399,UPI,Kolkata
+T0213,2025-08-20,C177,Male,22,Accessories,Cap,-,Grey,2,1663,3326,Cash,Bangalore
+T0214,2025-08-07,C124,Male,48,Accessories,Cap,-,Pink,2,2561,5122,Cash,Mumbai
+T0215,2025-08-13,C159,Female,37,Shirts,Checked Shirt,XL,Grey,4,703,2812,UPI,Mumbai
+T0216,2025-08-30,C126,Female,38,Shoes,Sneakers,-,White,2,366,732,Cash,Hyderabad
+T0217,2025-08-30,C174,Female,36,Dresses,Evening Gown,M,White,4,2633,10532,Debit Card,Delhi
+T0218,2025-08-18,C183,Female,34,Ethnic Wear,Lehenga,L,Black,3,993,2979,Debit Card,Kolkata
+T0219,2025-08-18,C162,Male,52,Tops,Casual T-Shirt,XS,Red,1,1989,1989,Debit Card,Kolkata
+T0220,2025-08-08,C108,Male,18,Accessories,Scarf,-,Green,1,2830,2830,UPI,Kolkata
+T0221,2025-08-16,C102,Male,52,Shoes,Sneakers,-,Red,5,1425,7125,Cash,Bangalore
+T0222,2025-08-17,C189,Female,29,Jeans,Slim Fit Jeans,XL,Black,2,1086,2172,Cash,Mumbai
+T0223,2025-08-09,C150,Male,41,Shoes,Boots,-,White,2,1528,3056,Credit Card,Kolkata
+T0224,2025-08-28,C183,Male,23,Shoes,Boots,-,Pink,5,2249,11245,Credit Card,Kolkata
+T0225,2025-08-01,C189,Male,23,Ethnic Wear,Lehenga,XXL,Green,5,690,3450,Credit Card,Chennai
+T0226,2025-08-07,C188,Female,35,Tops,Casual T-Shirt,XXL,Yellow,5,2608,13040,Credit Card,Chennai
+T0227,2025-08-30,C140,Male,31,Dresses,Maxi Dress,XS,Yellow,2,2609,5218,Debit Card,Hyderabad
+T0228,2025-08-27,C149,Female,42,Dresses,Summer Dress,XL,Green,1,700,700,UPI,Chennai
+T0229,2025-08-27,C109,Female,56,Shoes,Sandals,-,Red,3,2145,6435,UPI,Chennai
+T0230,2025-08-12,C170,Female,45,Dresses,Maxi Dress,XS,Yellow,2,601,1202,Credit Card,Mumbai
+T0231,2025-08-05,C148,Male,42,Jackets,Denim Jacket,XS,Blue,1,1562,1562,UPI,Mumbai
+T0232,2025-08-25,C134,Male,26,Jeans,Regular Jeans,L,Grey,5,2572,12860,UPI,Bangalore
+T0233,2025-08-01,C111,Female,53,Jeans,Ripped Jeans,L,Red,3,1994,5982,UPI,Bangalore
+T0234,2025-08-24,C171,Male,54,Dresses,Maxi Dress,S,Black,3,1533,4599,Cash,Delhi
+T0235,2025-08-05,C108,Male,45,Shirts,Denim Shirt,M,Grey,1,1779,1779,Cash,Chennai
+T0236,2025-08-24,C180,Female,56,Accessories,Scarf,-,Blue,2,1547,3094,Credit Card,Delhi
+T0237,2025-08-11,C179,Female,39,Ethnic Wear,Sherwani,L,Black,3,1613,4839,Debit Card,Delhi
+T0238,2025-08-11,C122,Female,38,Shirts,Denim Shirt,XL,White,3,1840,5520,Cash,Delhi
+T0239,2025-08-12,C114,Male,55,Dresses,Summer Dress,XXL,Grey,2,2095,4190,Cash,Kolkata
+T0240,2025-08-03,C152,Female,26,Shirts,Casual Shirt,M,Black,4,1844,7376,Credit Card,Delhi
+T0241,2025-08-20,C161,Female,52,Shoes,Sneakers,-,Green,5,2732,13660,Credit Card,Bangalore
+T0242,2025-08-25,C131,Female,28,Tops,Hoodie,M,Pink,1,343,343,Credit Card,Mumbai
+T0243,2025-08-08,C165,Male,46,Jackets,Blazer,L,Black,3,400,1200,UPI,Bangalore
+T0244,2025-08-10,C153,Male,25,Dresses,Casual Dress,M,Green,4,1147,4588,UPI,Mumbai
+T0245,2025-08-16,C112,Female,46,Jackets,Leather Jacket,M,Red,1,392,392,Cash,Kolkata
+T0246,2025-08-04,C186,Male,33,Dresses,Evening Gown,M,Pink,4,1249,4996,UPI,Kolkata
+T0247,2025-08-06,C123,Female,43,Tops,Formal Blouse,L,Pink,4,318,1272,Debit Card,Chennai
+T0248,2025-08-09,C196,Male,54,Jeans,Regular Jeans,M,Green,2,2174,4348,Credit Card,Mumbai
+T0249,2025-08-22,C162,Female,56,Shoes,Boots,-,Blue,3,1741,5223,UPI,Hyderabad
+T0250,2025-08-06,C186,Female,57,Jeans,Regular Jeans,M,Blue,2,1550,3100,Credit Card,Chennai
+T0251,2025-08-12,C188,Male,50,Shoes,Boots,-,Black,5,1871,9355,UPI,Chennai
+T0252,2025-08-16,C181,Male,53,Dresses,Maxi Dress,M,Black,2,1588,3176,UPI,Hyderabad
+T0253,2025-08-02,C145,Male,49,Dresses,Evening Gown,L,Grey,4,2314,9256,UPI,Kolkata
+T0254,2025-08-27,C156,Female,28,Jeans,Slim Fit Jeans,S,Yellow,1,1425,1425,Debit Card,Hyderabad
+T0255,2025-08-10,C121,Female,54,Ethnic Wear,Kurta,XL,Blue,3,2524,7572,Cash,Hyderabad
+T0256,2025-08-27,C196,Male,46,Accessories,Scarf,-,Blue,2,1519,3038,Credit Card,Delhi
+T0257,2025-08-09,C144,Male,46,Jeans,Regular Jeans,S,Green,5,2891,14455,UPI,Chennai
+T0258,2025-08-20,C117,Male,31,Tops,Crop Top,XL,Yellow,5,2506,12530,Debit Card,Mumbai
+T0259,2025-08-23,C137,Female,54,Shirts,Formal Shirt,S,Pink,1,1435,1435,Debit Card,Kolkata
+T0260,2025-08-28,C116,Male,27,Jackets,Bomber Jacket,XXL,Pink,4,882,3528,Cash,Kolkata
+T0261,2025-08-14,C148,Female,22,Jeans,Cargo Pants,XL,Yellow,3,2162,6486,UPI,Mumbai
+T0262,2025-08-19,C100,Male,47,Jackets,Leather Jacket,XL,Pink,2,2059,4118,Debit Card,Delhi
+T0263,2025-08-09,C141,Female,39,Dresses,Maxi Dress,M,Red,1,707,707,UPI,Bangalore
+T0264,2025-08-04,C120,Female,47,Tops,Hoodie,S,Black,3,951,2853,Cash,Bangalore
+T0265,2025-08-21,C146,Female,23,Jackets,Bomber Jacket,XS,Pink,3,1259,3777,UPI,Kolkata
+T0266,2025-08-03,C190,Male,18,Accessories,Scarf,-,Blue,2,2731,5462,Debit Card,Hyderabad
+T0267,2025-08-22,C156,Male,18,Jackets,Leather Jacket,L,Black,4,590,2360,Debit Card,Delhi
+T0268,2025-08-03,C193,Male,24,Jackets,Denim Jacket,M,Black,4,845,3380,Debit Card,Bangalore
+T0269,2025-08-17,C172,Male,57,Dresses,Maxi Dress,M,White,2,1986,3972,UPI,Chennai
+T0270,2025-08-03,C112,Male,25,Shoes,Sandals,-,Pink,3,872,2616,Debit Card,Mumbai
+T0271,2025-08-21,C110,Male,53,Shirts,Formal Shirt,XXL,Yellow,2,2420,4840,Debit Card,Kolkata
+T0272,2025-08-13,C137,Male,33,Ethnic Wear,Lehenga,XS,White,4,2913,11652,Credit Card,Hyderabad
+T0273,2025-08-29,C101,Female,38,Dresses,Maxi Dress,XL,Pink,3,2537,7611,Debit Card,Delhi
+T0274,2025-08-31,C198,Male,19,Jeans,Slim Fit Jeans,M,White,1,547,547,UPI,Hyderabad
+T0275,2025-08-10,C180,Female,45,Shoes,Sneakers,-,Black,3,642,1926,Cash,Bangalore
+T0276,2025-08-17,C126,Male,52,Jackets,Blazer,XL,Blue,3,2091,6273,Debit Card,Bangalore
+T0277,2025-08-08,C111,Female,25,Ethnic Wear,Kurta,M,Black,1,351,351,Debit Card,Kolkata
+T0278,2025-08-01,C120,Female,40,Shirts,Casual Shirt,M,Black,3,783,2349,Credit Card,Mumbai
+T0279,2025-08-26,C154,Female,51,Jeans,Ripped Jeans,XXL,Blue,4,2164,8656,Cash,Bangalore
+T0280,2025-08-16,C172,Male,41,Dresses,Casual Dress,XS,Blue,2,2384,4768,Credit Card,Bangalore
+T0281,2025-08-28,C101,Male,20,Ethnic Wear,Sherwani,L,Black,2,444,888,UPI,Chennai
+T0282,2025-08-11,C131,Female,38,Shirts,Formal Shirt,XL,Green,1,2356,2356,Credit Card,Chennai
+T0283,2025-08-08,C166,Male,43,Jeans,Cargo Pants,M,Yellow,3,653,1959,UPI,Bangalore
+T0284,2025-08-12,C125,Female,54,Shirts,Casual Shirt,L,Green,5,2320,11600,Debit Card,Kolkata
+T0285,2025-08-29,C169,Male,27,Tops,Hoodie,XS,White,5,1718,8590,Credit Card,Mumbai
+T0286,2025-08-01,C197,Female,37,Jeans,Regular Jeans,XL,White,4,2315,9260,Credit Card,Chennai
+T0287,2025-08-23,C135,Male,20,Accessories,Scarf,-,Green,4,647,2588,Credit Card,Hyderabad
+T0288,2025-08-05,C181,Female,22,Tops,Hoodie,XXL,Black,2,1494,2988,Cash,Mumbai
+T0289,2025-08-30,C150,Female,38,Ethnic Wear,Sherwani,S,Blue,2,857,1714,Credit Card,Chennai
+T0290,2025-08-04,C121,Female,47,Jackets,Blazer,XS,Green,2,2151,4302,Cash,Delhi
+T0291,2025-08-09,C115,Male,28,Shirts,Formal Shirt,S,Green,2,673,1346,Debit Card,Mumbai
+T0292,2025-08-13,C165,Male,37,Shirts,Casual Shirt,XS,Pink,4,2577,10308,Debit Card,Bangalore
+T0293,2025-08-15,C113,Male,25,Tops,Casual T-Shirt,S,Black,2,1940,3880,Cash,Kolkata
+T0294,2025-08-21,C182,Male,55,Shirts,Formal Shirt,XS,Blue,2,2945,5890,UPI,Chennai
+T0295,2025-08-03,C142,Male,20,Ethnic Wear,Kurta,S,Pink,4,2332,9328,Credit Card,Delhi
+T0296,2025-08-22,C154,Male,40,Accessories,Cap,-,Yellow,3,2126,6378,Debit Card,Bangalore
+T0297,2025-08-20,C179,Male,59,Shirts,Denim Shirt,L,Grey,1,659,659,Cash,Delhi
+T0298,2025-08-05,C153,Male,59,Accessories,Leather Belt,-,Pink,3,2264,6792,UPI,Mumbai
+T0299,2025-08-30,C172,Female,42,Shirts,Casual Shirt,XS,Green,5,1197,5985,Credit Card,Mumbai
+T0300,2025-08-02,C160,Female,55,Accessories,Cap,-,Blue,2,2990,5980,Debit Card,Mumbai
+T0301,2025-08-18,C194,Male,32,Shoes,Sandals,-,Black,2,1268,2536,Cash,Kolkata
+T0302,2025-08-23,C145,Male,40,Dresses,Evening Gown,L,Yellow,2,2308,4616,Credit Card,Bangalore
+T0303,2025-08-02,C129,Male,19,Ethnic Wear,Kurta,M,White,2,1695,3390,Debit Card,Mumbai
+T0304,2025-08-02,C102,Male,55,Dresses,Summer Dress,XL,Green,1,1830,1830,UPI,Hyderabad
+T0305,2025-08-04,C143,Female,38,Dresses,Evening Gown,XXL,Pink,4,2959,11836,Cash,Chennai
+T0306,2025-08-23,C171,Female,32,Dresses,Maxi Dress,M,Yellow,2,1027,2054,Credit Card,Kolkata
+T0307,2025-08-31,C173,Female,54,Tops,Formal Blouse,XL,Green,5,1204,6020,Credit Card,Delhi
+T0308,2025-08-05,C142,Male,33,Jackets,Denim Jacket,S,Blue,3,2129,6387,Credit Card,Mumbai
+T0309,2025-08-07,C131,Male,40,Shirts,Formal Shirt,XXL,Red,1,1880,1880,UPI,Kolkata
+T0310,2025-08-14,C121,Female,49,Shoes,Sandals,-,Pink,1,2263,2263,Debit Card,Chennai
+T0311,2025-08-15,C109,Male,36,Tops,Crop Top,M,Blue,1,1700,1700,Debit Card,Delhi
+T0312,2025-08-06,C193,Male,53,Jeans,Ripped Jeans,XL,Grey,1,2066,2066,Debit Card,Hyderabad
+T0313,2025-08-29,C155,Male,21,Jeans,Ripped Jeans,S,White,4,2569,10276,Cash,Kolkata
+T0314,2025-08-10,C138,Male,24,Tops,Hoodie,XL,Grey,2,523,1046,Cash,Bangalore
+T0315,2025-08-14,C111,Female,60,Ethnic Wear,Saree,XS,Red,2,999,1998,Cash,Bangalore
+T0316,2025-08-16,C114,Female,43,Ethnic Wear,Lehenga,XXL,Yellow,1,2929,2929,UPI,Chennai
+T0317,2025-08-12,C148,Female,29,Ethnic Wear,Kurta,M,Grey,4,1378,5512,Debit Card,Mumbai
+T0318,2025-08-19,C107,Male,60,Jeans,Slim Fit Jeans,XXL,Green,5,1995,9975,Debit Card,Hyderabad
+T0319,2025-08-02,C149,Female,52,Ethnic Wear,Saree,L,Yellow,1,1917,1917,Credit Card,Hyderabad
+T0320,2025-08-19,C166,Male,25,Ethnic Wear,Saree,S,White,2,816,1632,Credit Card,Delhi
+T0321,2025-08-03,C187,Female,30,Dresses,Casual Dress,M,Blue,1,1889,1889,UPI,Hyderabad
+T0322,2025-08-11,C135,Female,18,Shoes,Sneakers,-,Pink,2,907,1814,Credit Card,Bangalore
+T0323,2025-08-19,C199,Male,36,Jackets,Blazer,M,Pink,4,2643,10572,UPI,Bangalore
+T0324,2025-08-06,C135,Female,27,Shoes,Sneakers,-,Pink,3,1273,3819,Credit Card,Kolkata
+T0325,2025-08-16,C134,Female,19,Jackets,Denim Jacket,M,Yellow,4,702,2808,Debit Card,Chennai
+T0326,2025-08-10,C195,Female,38,Shirts,Denim Shirt,XL,Blue,2,2109,4218,Debit Card,Delhi
+T0327,2025-08-24,C162,Female,21,Dresses,Summer Dress,M,Pink,2,2447,4894,Credit Card,Chennai
+T0328,2025-08-07,C125,Male,33,Tops,Hoodie,XS,Green,2,1422,2844,Cash,Delhi
+T0329,2025-08-17,C150,Male,19,Accessories,Handbag,-,Grey,5,2127,10635,Debit Card,Delhi
+T0330,2025-08-19,C170,Female,40,Dresses,Casual Dress,XXL,Blue,3,412,1236,UPI,Bangalore
+T0331,2025-08-06,C173,Male,32,Accessories,Cap,-,Yellow,4,2402,9608,Credit Card,Kolkata
+T0332,2025-08-01,C160,Male,59,Dresses,Summer Dress,S,Yellow,5,1551,7755,Cash,Delhi
+T0333,2025-08-29,C148,Female,47,Shirts,Casual Shirt,L,Yellow,5,2854,14270,UPI,Hyderabad
+T0334,2025-08-04,C100,Female,53,Shirts,Checked Shirt,XXL,Blue,4,561,2244,Cash,Mumbai
+T0335,2025-08-21,C141,Female,34,Shirts,Casual Shirt,S,White,1,2757,2757,UPI,Kolkata
+T0336,2025-08-11,C187,Male,19,Ethnic Wear,Sherwani,M,Pink,4,1890,7560,Credit Card,Hyderabad
+T0337,2025-08-23,C173,Male,39,Accessories,Scarf,-,Green,5,1529,7645,Debit Card,Kolkata
+T0338,2025-08-29,C171,Male,36,Jeans,Cargo Pants,S,Yellow,5,1049,5245,Cash,Kolkata
+T0339,2025-08-03,C128,Female,32,Shirts,Denim Shirt,M,Green,3,2698,8094,Cash,Delhi
+T0340,2025-08-28,C115,Female,21,Jeans,Cargo Pants,S,Blue,4,2470,9880,Cash,Delhi
+T0341,2025-08-02,C119,Male,30,Jackets,Blazer,XL,Grey,2,1595,3190,Debit Card,Bangalore
+T0342,2025-08-16,C142,Male,38,Tops,Casual T-Shirt,L,Yellow,2,990,1980,Debit Card,Delhi
+T0343,2025-08-26,C197,Male,26,Shoes,Boots,-,Pink,4,2255,9020,UPI,Bangalore
+T0344,2025-08-02,C168,Male,41,Tops,Crop Top,XL,White,1,316,316,Debit Card,Chennai
+T0345,2025-08-23,C144,Female,26,Jeans,Cargo Pants,XL,Yellow,2,567,1134,Credit Card,Mumbai
+T0346,2025-08-31,C137,Female,51,Jackets,Blazer,XXL,Black,3,2307,6921,Cash,Chennai
+T0347,2025-08-06,C151,Male,32,Accessories,Cap,-,White,1,2715,2715,Debit Card,Bangalore
+T0348,2025-08-12,C191,Male,42,Shirts,Formal Shirt,XL,Red,1,2977,2977,Credit Card,Bangalore
+T0349,2025-08-23,C114,Female,46,Shoes,Sneakers,-,Yellow,4,927,3708,Debit Card,Kolkata
+T0350,2025-08-22,C180,Male,37,Shoes,Sneakers,-,Yellow,5,2780,13900,Debit Card,Delhi
+T0351,2025-08-27,C113,Male,36,Jeans,Slim Fit Jeans,L,White,5,1118,5590,Cash,Hyderabad
+T0352,2025-08-07,C145,Female,36,Dresses,Summer Dress,XL,Grey,2,2268,4536,Cash,Chennai
+T0353,2025-08-01,C101,Male,25,Ethnic Wear,Saree,XS,Blue,1,1348,1348,Debit Card,Delhi
+T0354,2025-08-10,C133,Female,21,Jeans,Regular Jeans,XS,Yellow,3,1580,4740,UPI,Kolkata
+T0355,2025-08-04,C112,Male,18,Dresses,Evening Gown,M,Green,4,2846,11384,Cash,Kolkata
+T0356,2025-08-03,C147,Female,29,Jeans,Cargo Pants,L,Grey,3,1879,5637,UPI,Delhi
+T0357,2025-08-21,C121,Male,26,Tops,Formal Blouse,XS,Pink,5,2277,11385,UPI,Chennai
+T0358,2025-08-20,C148,Female,57,Tops,Formal Blouse,L,Grey,1,1984,1984,UPI,Bangalore
+T0359,2025-08-03,C133,Female,18,Accessories,Handbag,-,Blue,4,1318,5272,UPI,Mumbai
+T0360,2025-08-22,C186,Female,27,Tops,Casual T-Shirt,XXL,Black,5,2222,11110,UPI,Chennai
+T0361,2025-08-03,C196,Female,38,Accessories,Handbag,-,Yellow,1,2376,2376,Debit Card,Hyderabad
+T0362,2025-08-21,C148,Female,33,Jeans,Cargo Pants,L,Grey,1,2341,2341,UPI,Mumbai
+T0363,2025-08-04,C163,Male,24,Shoes,Boots,-,Red,5,2549,12745,Credit Card,Bangalore
+T0364,2025-08-26,C177,Female,50,Accessories,Scarf,-,Green,3,522,1566,Debit Card,Delhi
+T0365,2025-08-11,C171,Female,60,Jackets,Blazer,XS,Blue,2,308,616,Cash,Mumbai
+T0366,2025-08-27,C181,Female,53,Jackets,Leather Jacket,XS,Black,4,875,3500,UPI,Bangalore
+T0367,2025-08-09,C178,Male,30,Jeans,Cargo Pants,S,Grey,2,1684,3368,Credit Card,Delhi
+T0368,2025-08-02,C181,Male,46,Ethnic Wear,Saree,L,Red,5,498,2490,UPI,Hyderabad
+T0369,2025-08-16,C165,Male,55,Dresses,Evening Gown,XS,Pink,5,2782,13910,Cash,Hyderabad
+T0370,2025-08-29,C149,Female,56,Accessories,Handbag,-,Pink,3,1504,4512,UPI,Chennai
+T0371,2025-08-05,C152,Female,53,Jackets,Bomber Jacket,S,White,5,1490,7450,Cash,Kolkata
+T0372,2025-08-05,C190,Male,50,Jackets,Leather Jacket,M,Grey,5,2637,13185,UPI,Kolkata
+T0373,2025-08-24,C168,Female,45,Tops,Casual T-Shirt,XS,Pink,2,517,1034,Credit Card,Chennai
+T0374,2025-08-09,C196,Male,36,Shirts,Casual Shirt,XS,Yellow,2,2516,5032,Credit Card,Mumbai
+T0375,2025-08-27,C157,Male,57,Accessories,Scarf,-,White,5,1478,7390,Credit Card,Delhi
+T0376,2025-08-13,C153,Female,53,Tops,Casual T-Shirt,XXL,Yellow,2,2841,5682,UPI,Chennai
+T0377,2025-08-30,C181,Female,55,Accessories,Cap,-,Yellow,4,1026,4104,Credit Card,Chennai
+T0378,2025-08-31,C122,Male,42,Tops,Hoodie,M,Yellow,2,959,1918,Cash,Bangalore
+T0379,2025-08-11,C159,Male,20,Dresses,Casual Dress,XL,Red,5,1533,7665,UPI,Hyderabad
+T0380,2025-08-18,C145,Male,38,Accessories,Cap,-,Blue,5,952,4760,UPI,Hyderabad
+T0381,2025-08-18,C151,Male,40,Accessories,Cap,-,Green,3,1777,5331,Cash,Chennai
+T0382,2025-08-31,C196,Female,53,Tops,Casual T-Shirt,XXL,Green,4,1284,5136,Debit Card,Bangalore
+T0383,2025-08-22,C141,Female,25,Shoes,Sandals,-,Yellow,1,2417,2417,Cash,Hyderabad
+T0384,2025-08-26,C165,Female,49,Tops,Crop Top,XXL,White,3,2404,7212,Credit Card,Bangalore
+T0385,2025-08-06,C198,Male,58,Jeans,Regular Jeans,XXL,White,4,725,2900,Debit Card,Hyderabad
+T0386,2025-08-27,C189,Female,59,Jeans,Regular Jeans,XS,Grey,3,455,1365,Credit Card,Bangalore
+T0387,2025-08-02,C122,Female,53,Jeans,Regular Jeans,M,Pink,4,2147,8588,UPI,Delhi
+T0388,2025-08-11,C102,Female,25,Tops,Casual T-Shirt,XXL,Red,1,1765,1765,Credit Card,Mumbai
+T0389,2025-08-26,C187,Female,56,Jeans,Ripped Jeans,L,Pink,4,426,1704,UPI,Chennai
+T0390,2025-08-18,C128,Male,43,Shirts,Casual Shirt,M,Green,1,2567,2567,Debit Card,Bangalore
+T0391,2025-08-02,C100,Female,52,Jeans,Ripped Jeans,S,Green,2,1990,3980,Debit Card,Chennai
+T0392,2025-08-06,C128,Female,30,Jeans,Regular Jeans,XXL,Red,5,2189,10945,Credit Card,Mumbai
+T0393,2025-08-22,C108,Female,24,Accessories,Scarf,-,Green,3,825,2475,Debit Card,Bangalore
+T0394,2025-08-10,C179,Male,30,Jackets,Blazer,L,Green,5,3000,15000,Cash,Kolkata
+T0395,2025-08-19,C119,Female,38,Shoes,Formal Shoes,-,Red,3,1308,3924,Debit Card,Kolkata
+T0396,2025-08-24,C182,Female,35,Jackets,Bomber Jacket,XXL,Green,4,2195,8780,UPI,Mumbai
+T0397,2025-08-25,C139,Female,53,Jeans,Regular Jeans,XXL,Blue,3,873,2619,Debit Card,Mumbai
+T0398,2025-08-24,C180,Male,22,Tops,Casual T-Shirt,XL,Pink,5,1171,5855,Credit Card,Hyderabad
+T0399,2025-08-09,C169,Female,59,Dresses,Casual Dress,L,White,5,1491,7455,Debit Card,Delhi
+T0400,2025-08-17,C165,Male,43,Jackets,Leather Jacket,XXL,White,5,979,4895,Debit Card,Delhi
+T0401,2025-08-06,C122,Male,48,Jackets,Leather Jacket,S,Grey,2,557,1114,Cash,Mumbai
+T0402,2025-08-08,C105,Male,51,Jackets,Blazer,L,Grey,1,463,463,Cash,Bangalore
+T0403,2025-08-23,C166,Female,34,Dresses,Maxi Dress,XXL,Pink,3,2707,8121,Credit Card,Hyderabad
+T0404,2025-08-09,C148,Male,51,Shoes,Sandals,-,Green,4,2274,9096,Credit Card,Hyderabad
+T0405,2025-08-29,C117,Female,28,Accessories,Leather Belt,-,Yellow,2,915,1830,Debit Card,Chennai
+T0406,2025-08-12,C177,Male,60,Accessories,Scarf,-,Green,1,2272,2272,UPI,Delhi
+T0407,2025-08-07,C175,Male,59,Shoes,Sneakers,-,White,1,823,823,Debit Card,Chennai
+T0408,2025-08-21,C165,Male,54,Dresses,Summer Dress,S,Yellow,2,2416,4832,UPI,Hyderabad
+T0409,2025-08-19,C181,Male,60,Shirts,Formal Shirt,S,Grey,5,2230,11150,UPI,Chennai
+T0410,2025-08-08,C152,Male,55,Dresses,Casual Dress,S,Green,4,2743,10972,Credit Card,Chennai
+T0411,2025-08-13,C149,Male,24,Tops,Formal Blouse,XL,Pink,2,2780,5560,Credit Card,Chennai
+T0412,2025-08-16,C178,Male,52,Jeans,Slim Fit Jeans,L,Black,5,2508,12540,Credit Card,Kolkata
+T0413,2025-08-21,C155,Female,41,Tops,Hoodie,S,Grey,4,1735,6940,Credit Card,Delhi
+T0414,2025-08-05,C132,Female,32,Jeans,Ripped Jeans,XL,Pink,3,1074,3222,Credit Card,Kolkata
+T0415,2025-08-24,C100,Male,51,Tops,Hoodie,XXL,White,3,1974,5922,Cash,Bangalore
+T0416,2025-08-05,C154,Female,34,Shoes,Sandals,-,Yellow,4,1134,4536,UPI,Hyderabad
+T0417,2025-08-26,C171,Female,29,Jackets,Blazer,M,Yellow,5,1710,8550,UPI,Kolkata
+T0418,2025-08-05,C184,Male,32,Ethnic Wear,Saree,XS,White,5,1940,9700,Cash,Hyderabad
+T0419,2025-08-20,C189,Male,28,Shoes,Sneakers,-,Blue,2,2231,4462,UPI,Bangalore
+T0420,2025-08-03,C133,Male,41,Jeans,Slim Fit Jeans,XXL,Pink,4,2814,11256,Cash,Kolkata
+T0421,2025-08-31,C176,Male,29,Ethnic Wear,Lehenga,XS,White,5,1471,7355,Debit Card,Bangalore
+T0422,2025-08-26,C176,Male,57,Dresses,Summer Dress,M,White,1,944,944,Credit Card,Mumbai
+T0423,2025-08-25,C151,Female,60,Shoes,Boots,-,White,5,362,1810,Credit Card,Bangalore
+T0424,2025-08-18,C136,Female,40,Shirts,Casual Shirt,XL,White,4,1954,7816,Credit Card,Mumbai
+T0425,2025-08-06,C152,Male,53,Jeans,Ripped Jeans,M,Blue,5,1355,6775,Cash,Kolkata
+T0426,2025-08-15,C148,Female,33,Jackets,Blazer,XXL,Grey,5,412,2060,UPI,Bangalore
+T0427,2025-08-09,C108,Female,58,Accessories,Cap,-,Green,4,1746,6984,Credit Card,Kolkata
+T0428,2025-08-27,C133,Male,36,Jeans,Cargo Pants,XXL,Green,1,2571,2571,Debit Card,Delhi
+T0429,2025-08-11,C145,Male,54,Shirts,Casual Shirt,XXL,White,4,1117,4468,Debit Card,Kolkata
+T0430,2025-08-08,C133,Male,32,Accessories,Cap,-,Green,2,736,1472,Credit Card,Bangalore
+T0431,2025-08-22,C184,Female,57,Tops,Casual T-Shirt,L,Green,5,1591,7955,UPI,Hyderabad
+T0432,2025-08-28,C135,Female,29,Shirts,Denim Shirt,S,Black,1,2453,2453,UPI,Delhi
+T0433,2025-08-31,C169,Male,50,Jackets,Blazer,XXL,Black,4,793,3172,UPI,Mumbai
+T0434,2025-08-23,C101,Male,31,Shoes,Sneakers,-,Green,3,2809,8427,Cash,Chennai
+T0435,2025-08-18,C133,Male,35,Ethnic Wear,Sherwani,M,Black,4,2036,8144,Debit Card,Delhi
+T0436,2025-08-23,C196,Female,41,Shoes,Sandals,-,Grey,2,2640,5280,Debit Card,Hyderabad
+T0437,2025-08-22,C129,Male,35,Accessories,Scarf,-,Pink,2,897,1794,Debit Card,Delhi
+T0438,2025-08-26,C101,Male,44,Ethnic Wear,Saree,XXL,Green,4,1528,6112,Cash,Hyderabad
+T0439,2025-08-28,C172,Male,43,Jeans,Regular Jeans,XS,White,3,2251,6753,Credit Card,Delhi
+T0440,2025-08-24,C142,Female,41,Jackets,Denim Jacket,M,Red,4,796,3184,Cash,Kolkata
+T0441,2025-08-31,C177,Male,54,Dresses,Casual Dress,M,Green,5,2296,11480,UPI,Bangalore
+T0442,2025-08-13,C178,Female,47,Dresses,Evening Gown,XXL,Green,4,2885,11540,UPI,Bangalore
+T0443,2025-08-03,C120,Female,32,Jackets,Denim Jacket,XXL,Yellow,3,2779,8337,UPI,Mumbai
+T0444,2025-08-29,C156,Female,55,Ethnic Wear,Lehenga,S,Black,1,812,812,Debit Card,Kolkata
+T0445,2025-08-09,C195,Male,31,Dresses,Maxi Dress,XS,Blue,1,2238,2238,Credit Card,Bangalore
+T0446,2025-08-25,C150,Male,24,Shirts,Casual Shirt,XS,Pink,3,1239,3717,Debit Card,Kolkata
+T0447,2025-08-10,C156,Male,26,Dresses,Summer Dress,XS,Green,3,2250,6750,UPI,Hyderabad
+T0448,2025-08-30,C134,Female,26,Dresses,Maxi Dress,XXL,Pink,5,2920,14600,Cash,Mumbai
+T0449,2025-08-16,C169,Male,23,Ethnic Wear,Sherwani,M,Pink,3,937,2811,Cash,Bangalore
+T0450,2025-08-01,C166,Male,40,Shirts,Denim Shirt,XL,Red,4,2254,9016,Cash,Bangalore
+T0451,2025-08-25,C155,Female,56,Accessories,Leather Belt,-,Green,2,1986,3972,UPI,Delhi
+T0452,2025-08-08,C120,Female,42,Accessories,Handbag,-,Blue,4,2861,11444,Debit Card,Hyderabad
+T0453,2025-08-25,C178,Female,36,Shirts,Denim Shirt,S,Blue,2,859,1718,Cash,Bangalore
+T0454,2025-08-21,C158,Female,35,Ethnic Wear,Saree,M,Red,2,503,1006,Credit Card,Chennai
+T0455,2025-08-04,C136,Female,26,Ethnic Wear,Kurta,S,Blue,2,360,720,UPI,Chennai
+T0456,2025-08-11,C153,Female,49,Jackets,Blazer,XXL,Red,3,628,1884,Debit Card,Bangalore
+T0457,2025-08-09,C199,Female,22,Ethnic Wear,Saree,S,Yellow,4,351,1404,Credit Card,Kolkata
+T0458,2025-08-08,C149,Female,33,Tops,Formal Blouse,L,Blue,5,1153,5765,UPI,Delhi
+T0459,2025-08-22,C139,Female,28,Tops,Casual T-Shirt,M,Grey,3,1113,3339,Cash,Bangalore
+T0460,2025-08-28,C185,Male,25,Accessories,Scarf,-,Green,1,985,985,Cash,Hyderabad
+T0461,2025-08-04,C150,Male,18,Tops,Hoodie,XXL,Black,3,666,1998,Debit Card,Chennai
+T0462,2025-08-16,C111,Female,58,Tops,Casual T-Shirt,M,Black,5,739,3695,Debit Card,Delhi
+T0463,2025-08-08,C140,Female,46,Accessories,Leather Belt,-,Pink,3,851,2553,Cash,Bangalore
+T0464,2025-08-16,C190,Female,53,Shirts,Denim Shirt,S,Black,5,1724,8620,Cash,Kolkata
+T0465,2025-08-15,C135,Male,22,Dresses,Maxi Dress,M,Yellow,5,1803,9015,UPI,Bangalore
+T0466,2025-08-25,C181,Female,29,Tops,Crop Top,XL,White,3,559,1677,UPI,Chennai
+T0467,2025-08-17,C187,Female,53,Dresses,Casual Dress,M,Pink,3,752,2256,Credit Card,Hyderabad
+T0468,2025-08-22,C108,Male,26,Dresses,Summer Dress,S,Blue,4,1084,4336,Credit Card,Bangalore
+T0469,2025-08-19,C182,Female,60,Ethnic Wear,Sherwani,XS,Green,2,2781,5562,Credit Card,Bangalore
+T0470,2025-08-30,C126,Female,23,Ethnic Wear,Kurta,M,Pink,3,538,1614,Cash,Hyderabad
+T0471,2025-08-02,C193,Male,37,Jeans,Regular Jeans,XL,Blue,1,1246,1246,UPI,Chennai
+T0472,2025-08-07,C167,Male,54,Dresses,Maxi Dress,XXL,Blue,5,1766,8830,UPI,Kolkata
+T0473,2025-08-22,C154,Male,28,Dresses,Maxi Dress,XL,Green,2,2486,4972,UPI,Mumbai
+T0474,2025-08-29,C140,Female,41,Shoes,Boots,-,Green,5,1285,6425,Debit Card,Delhi
+T0475,2025-08-25,C170,Female,41,Ethnic Wear,Lehenga,L,Red,1,1465,1465,Credit Card,Hyderabad
+T0476,2025-08-05,C138,Male,37,Accessories,Cap,-,Green,1,1430,1430,Debit Card,Bangalore
+T0477,2025-08-02,C158,Female,27,Dresses,Casual Dress,M,White,2,1349,2698,Cash,Bangalore
+T0478,2025-08-19,C151,Male,22,Jackets,Blazer,S,Grey,5,690,3450,Cash,Bangalore
+T0479,2025-08-24,C173,Female,23,Tops,Crop Top,M,Pink,4,793,3172,Debit Card,Kolkata
+T0480,2025-08-21,C177,Male,58,Shoes,Sneakers,-,Yellow,5,468,2340,Cash,Hyderabad
+T0481,2025-08-19,C119,Female,50,Accessories,Cap,-,Red,4,2125,8500,Credit Card,Chennai
+T0482,2025-08-14,C137,Female,27,Dresses,Casual Dress,XS,Grey,5,501,2505,UPI,Mumbai
+T0483,2025-08-03,C151,Female,26,Dresses,Maxi Dress,XL,White,4,1919,7676,Debit Card,Hyderabad
+T0484,2025-08-20,C194,Male,33,Jeans,Ripped Jeans,L,Green,5,666,3330,Credit Card,Kolkata
+T0485,2025-08-14,C154,Female,40,Accessories,Handbag,-,Green,5,2984,14920,Credit Card,Mumbai
+T0486,2025-08-06,C144,Female,57,Dresses,Maxi Dress,XS,White,2,1831,3662,Debit Card,Kolkata
+T0487,2025-08-28,C110,Male,21,Accessories,Cap,-,Yellow,1,1706,1706,Credit Card,Mumbai
+T0488,2025-08-15,C160,Male,39,Accessories,Cap,-,White,5,2443,12215,Cash,Hyderabad
+T0489,2025-08-16,C179,Male,60,Tops,Hoodie,XL,Red,3,997,2991,Credit Card,Mumbai
+T0490,2025-08-07,C189,Female,21,Ethnic Wear,Kurta,XS,Pink,3,1775,5325,Credit Card,Bangalore
+T0491,2025-08-10,C183,Female,32,Shoes,Sneakers,-,Green,4,2745,10980,Credit Card,Chennai
+T0492,2025-08-07,C164,Female,53,Tops,Casual T-Shirt,S,Yellow,3,2306,6918,UPI,Kolkata
+T0493,2025-08-06,C102,Female,40,Jackets,Denim Jacket,S,Yellow,1,2863,2863,Cash,Delhi
+T0494,2025-08-29,C103,Female,32,Dresses,Casual Dress,L,Black,1,1865,1865,Debit Card,Delhi
+T0495,2025-08-08,C173,Male,45,Shirts,Checked Shirt,L,Black,2,2972,5944,Debit Card,Hyderabad
+T0496,2025-08-18,C187,Male,26,Shirts,Casual Shirt,L,Black,5,947,4735,Cash,Bangalore
+T0497,2025-08-18,C168,Male,29,Jackets,Bomber Jacket,XXL,Red,3,1995,5985,UPI,Mumbai
+T0498,2025-08-15,C195,Female,27,Accessories,Leather Belt,-,Black,2,407,814,Cash,Hyderabad
+T0499,2025-08-19,C178,Male,56,Accessories,Cap,-,Red,3,625,1875,UPI,Chennai
+T0500,2025-08-17,C177,Female,59,Jackets,Bomber Jacket,L,Grey,4,863,3452,Debit Card,Chennai
